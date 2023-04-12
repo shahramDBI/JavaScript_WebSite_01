@@ -1,2 +1,2 @@
 # JavaScript_WebSite_01
-<link>https://shahramdbi.github.io/JavaScript_WebSite_01/</link>
+<a href="https://shahramdbi.github.io/JavaScript_WebSite_01" target="_blank">JavaScript_WebSite_01</a>
